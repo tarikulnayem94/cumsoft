@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![alt text](https://github.com/cumsoft/CumsoftDev_Kit/blob/main/cumsoftbanner.png)
 
 
