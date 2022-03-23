@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![alt text](https://github.com/cumsoft/CumsoftDev_Kit/blob/main/cumsoftbanner.png)
+
+
+
+
+
+
+
 <!--
 **cumsoft/cumsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
