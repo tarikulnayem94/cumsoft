@@ -1,4 +1,4 @@
-![alt text](https://github.com/cumsoft/CumsoftDev_Kit/blob/main/cumsoftbanner.png)
+![alt text](https://github.com/cumsoft/cumsoft/blob/main/Cumsoft_Github_Kawaii_Banner.jpg)
 
 
 
