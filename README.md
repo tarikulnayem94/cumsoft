@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/cumsoft/cumsoft/blob/main/Cumsoft_Github_Kawaii_Banner.jpg)
+![alt text](https://github.com/cumsoft/cumsoft/blob/main/cumsoftbannerspray.jpg)
 <!--
 **cumsoft/cumsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
