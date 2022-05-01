@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/cumsoft/count.svg" />
 </p>
-<p>
-Copyright © 2022 by Cumsoft. All rights reserved.
-Cumsoft™, Cumsoft™ and CumsoftCumsoft™ are trademarks of cumsoft.
+<p align="center">
+Copyright © 2022 by Cumsoft.
 </p>
